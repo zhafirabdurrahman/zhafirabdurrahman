@@ -65,13 +65,6 @@ I enjoy solving real-world problems using data-driven approaches, from analysis 
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhafirabdurrahman&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhafirabdurrahman&layout=compact)
-
----
-
 ## 📫 Let's Connect
 - 📧 Email: muhammadzhafirabdurrahman@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/mzhafirabdurrahman/  
