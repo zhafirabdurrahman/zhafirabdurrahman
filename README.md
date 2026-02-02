@@ -3,99 +3,80 @@
 📍 Bandung, Indonesia  
 🎯 Data Analyst | Data Scientist | Data Engineer  
 
----
-
-## 👨‍💻 About Me
-I am a highly motivated **Agricultural Engineering graduate from Padjadjaran University** with a strong interest in **data science, analytics, and machine learning**. I have hands-on experience in building end-to-end data projects, from data exploration and modeling to deployment.
-
-I am proficient in **Python and SQL**, experienced with **machine learning, data visualization, and cloud-based tools**, and have worked in both **data annotation for AI systems** and **analytical roles**. I enjoy solving real-world problems using data-driven approaches and continuously improving my technical skill set.
+I am a highly motivated **Agricultural Engineering graduate from Padjadjaran University** with a strong interest in **data analytics, machine learning, and data engineering**.  
+I enjoy solving real-world problems using data-driven approaches, from analysis and modeling to deployment.
 
 ---
 
-## 🎓 Education
-- **Hacktiv8 Bootcamp – Data Science Program**  
-  Jakarta, Indonesia (Oct 2025 – Jan 2026)  
-  Score: **92.81%**
-
-- **Padjadjaran University**  
-  Bachelor of Agricultural Engineering  
-  GPA: **3.20 / 4.00** (2017 – 2024)
-
----
-
-## 💼 Work Experience
-### TELUS Digital AI Data Solutions — *Search Engine Evaluator*  
-*Remote, Indonesia | Aug 2021 – Jan 2023*
-- Evaluated and annotated large-scale search result datasets to improve ranking relevance  
-- Applied quality guidelines to assess content relevance, accuracy, and credibility  
-- Identified bias patterns, relevance gaps, and edge cases in algorithm outputs  
-- Conducted quality assurance on labeled data for ML training and validation  
-
-### Casafarm Hidroponics — *Agronomist Intern*  
-*Bandung, Indonesia | Aug 2020 – Nov 2020*
-- Supported hydroponic cultivation operations and productivity planning  
-- Analyzed environmental and nutritional conditions for operational decisions  
-- Collaborated with cross-functional teams to improve production efficiency  
-
----
-
-## 🧠 Skills
+## 🛠️ Tech Stack
 
 ### 🔹 Programming & Query
-- Python, SQL  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
 
 ### 🔹 Data Analysis & Machine Learning
-- Exploratory Data Analysis (EDA)
-- Time Series Analysis & Forecasting
-- Machine Learning & Model Evaluation
-- NLP & Computer Vision
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-### 🔹 Libraries & Frameworks
-- Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
-- Matplotlib, Seaborn, SciPy  
-- Feature-Engine, BeautifulSoup, Selenium, Streamlit  
+---
 
-### 🔹 Tools & Platforms
-- Tableau, Kibana, QGIS  
-- Docker, Apache Airflow  
-- PostgreSQL, ElasticSearch  
-- Google BigQuery, Hugging Face  
+### 🔹 Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+---
+
+### 🔹 Visualization & BI
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E77BC?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+
+---
+
+### 🔹 Deployment, DevOps & Data Engineering
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+---
+
+### 🔹 Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
 ## 📂 Featured Projects
-### 📊 Formee Outfit Sales Evaluation
-- Sales analysis and visualization for 2024 e-commerce data  
-- Identified seasonal patterns and customer segmentation insights  
-- **Tech:** Python, Pandas, NumPy, Seaborn, Matplotlib, SciPy, Tableau  
+- **📊 Formee Outfit Sales Analysis**  
+  Sales evaluation and visualization to identify trends and customer segmentation.
 
-### 🧠 Student Depression Detection
-- Supervised ML model using Support Vector Classifier (SVC)  
-- Achieved **90% recall** for early depression detection  
-- Deployed using **Streamlit & Hugging Face**  
-- **Tech:** Python, Scikit-learn, TensorFlow, Feature-Engine  
+- **🧠 Student Depression Detection**  
+  Supervised ML model (SVC) for early depression screening, achieving **90% recall**, deployed with Streamlit & Hugging Face.
 
-### 🍅 Tomato Sortation (Computer Vision)
-- Image classification using CNN & EfficientNetB0  
-- Achieved **97% accuracy** for tomato quality classification  
-- **Tech:** TensorFlow, Keras, Scikit-learn, Streamlit  
+- **🍅 Tomato Sortation (Computer Vision)**  
+  Image classification using CNN & EfficientNetB0, achieving **97% accuracy**.
 
 ---
 
-## 🏅 Certifications
-- **IBM – Data Fundamental**  
-- **IBM – Data Classification and Summarization Using IBM Granite**  
-- **HackerRank – Python (Basic)**  
-- **HackerRank – SQL (Basic)**  
-- **BCG – Data Science & Analytics Virtual Experience Program**
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhafirabdurrahman&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhafirabdurrahman&layout=compact)
 
 ---
 
 ## 📫 Let's Connect
 - 📧 Email: muhammadzhafirabdurrahman@gmail.com  
-- 💼 LinkedIn: *available on profile*  
+- 💼 LinkedIn: https://www.linkedin.com/in/mzhafirabdurrahman/  
 - 💻 GitHub: https://github.com/zhafirabdurrahman  
 
 ---
 
-⭐ *Feel free to explore my repositories and projects. I’m always open to collaboration and learning opportunities!*  
+⭐ *Always open to collaboration, learning, and new opportunities in data & machine learning.*
